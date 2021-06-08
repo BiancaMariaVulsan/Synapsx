@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623170251 source:d:\facultate\cv\stripcomments_synapsx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
